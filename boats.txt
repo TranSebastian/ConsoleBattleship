@@ -1,0 +1,5 @@
+Aircraft Carrier,C,4,E
+Battleship,H,10,W
+Submarine,C,10,S
+Destroyer,I,9,W
+Patrol Boat,H,3,E
